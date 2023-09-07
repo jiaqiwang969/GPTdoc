@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/GPTdoc/static/css/main.abd64e84.css",
+    "main.js": "/GPTdoc/static/js/main.908ffb5a.js",
+    "static/js/787.171cbe3f.chunk.js": "/GPTdoc/static/js/787.171cbe3f.chunk.js",
+    "index.html": "/GPTdoc/index.html",
+    "main.abd64e84.css.map": "/GPTdoc/static/css/main.abd64e84.css.map",
+    "main.908ffb5a.js.map": "/GPTdoc/static/js/main.908ffb5a.js.map",
+    "787.171cbe3f.chunk.js.map": "/GPTdoc/static/js/787.171cbe3f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd64e84.css",
+    "static/js/main.908ffb5a.js"
+  ]
+}
